@@ -59,6 +59,10 @@ Generated text: recipe for roasted vegetables | chop 1 / 2 cup of vegetables. mi
 
 Generated text: recipe for chocolate ice cream | mix in the sugar and egg yolks and whisk until combined . heat the cream and milk in a saucepan over medium heat , stirring constantly until the mixture thickens and coats the back of a spoon . cool and freeze as directed.
 
+**Conclusion**
+
+The LSTM network successfully generates coherent recipe instructions by predicting the next word in a sequence. Lower temperature values (0.5) produce more predictable and straightforward text, while higher temperature values (0.8) generate more diverse and creative responses. The model could be further improved by training on more epochs or tuning hyperparameters.
+
 **References**
 
 Kaggle. (n.d.). Epicurious Recipes dataset. Kaggle. https://www.kaggle.com/datasets/hugodarwood/epicurious-recipes-with-rating-and-nutrition
